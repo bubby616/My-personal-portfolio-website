@@ -65,4 +65,4 @@ export const projects = [
     githubUrl: null,
     image: "/images/projects/magnifymnl.jpg",
   },
-];
+]; 

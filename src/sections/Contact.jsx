@@ -19,7 +19,7 @@ import GithubIcon from "../components/ui/GithubIcon";
 // 2. Get your Access Key (it's meant to be public/client-side — safe
 //    to commit, this is how Web3Forms is designed to be used).
 // 3. Paste it below.
-const WEB3FORMS_ACCESS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY";
+const WEB3FORMS_ACCESS_KEY = "57a1e2e8-d6fe-4560-b55f-1da0bba80233";
 
 const links = [
   {
