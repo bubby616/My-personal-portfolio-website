@@ -53,16 +53,5 @@ export const projects = [
     githubUrl: null,
     image: "/images/projects/outsoar.jpg",
   },
-  {
-    id: "magnifymnl",
-    name: "Magnify MNL Studios",
-    year: 2025,
-    role: "Web Developer · Team Project (OutSoar)",
-    description:
-      "A website for a vocal coaching studio, showcasing their coaches, services, and merchandise. Built collaboratively with the OutSoar team using WordPress.",
-    tech: ["WordPress"],
-    liveUrl: null,
-    githubUrl: null,
-    image: "/images/projects/magnifymnl.jpg",
-  },
+  
 ]; 
